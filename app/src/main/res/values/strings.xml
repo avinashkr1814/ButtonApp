@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Course2 Navigation</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="terms">Terms</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="submit_email">Submit</string>
+    <string name="welcome_to_phable">Welcome to Phable</string>
+    <string name="your_details">Your Details</string>
+</resources>
